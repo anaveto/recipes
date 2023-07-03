@@ -1,29 +1,38 @@
 Ingredients
-    120g flour
-    1/2 tsp baking powder
-    3/8 tsp baking soda
+    1 cup flour
+    1/2 tsp baking soda
+    1/4 tsp baking powder
     1/4 tsp salt
-    5/8 cups chocolate chips
-    1/3 cup coconut sugar (or 1/4 cup packed brown)
     1/4 cup sugar
-    4.5 tbsp avocado oil
-    2.5 tbsp water
+    1/4 cup coconut sugar
+    1/3 cup chocolate chips
+    1/4 cup refrigerated milk
+    2 tbsp refrigerated butter
+    1/4 tsp vanilla extract
 
 Instructions
-    Combine flour, baking powder, baking soda, and salt with whisk
-    Add chocolate chips and toss to coat
-
-    In a separate bowl, combine brown sugar, regular sugar, oil, and water
-    Whisk until sugar has incorporated into the oil and mixture is smooth (2 min)
-
-    Add flour mixture to sugar mixture
-    Stir until combined and no more flour is visible, but no more than that
-
-    Line baking sheet and portion out cookies evenly (~1/4 cup per cookie)
-    Put in fridge uncovered for 24 hours (or freezer for 30 minutes)
-
     Preheat oven to 180 degrees
-    Bake until edges starting to turn golden (17 min)
-        Flip tray halfway through
+        210 on this piece of shit with baking stone on bottom rack and baking sheet on baking stone
+        NOT convection
+        MEASURE TEMPERATURE WITH THERMOMETER
+
+    Combine flour, baking soda, baking powder, salt, sugar, coconut sugar with whisk
+    Stir in chocolate chips
+    Add milk, butter, and vanilla extract
+    Stir until combined
+
+    Put in freezer for 30 minutes
+
+    Line one baking sheet and portion out eight small cookies
+
+    Bake until edges start to turn golden (14 min)
     Leave on baking sheet for 15 minutes
     Transfer to cooling rack and cool for at least 5 minutes
+
+LAST ATTEMPT
+    did 14 min at 200. only baking soda no powder. did not chill dough. took them out once they were very very lightly starting to brown. used extremely tiny balls of dough. result was still raw in the center after 14 minutes, so put them back in at 210 for 3 more minutes. they were properly brown on the edges by that point, though still white in the center on the top. STILL FUCKING RAW KILL ME. back in for another 5 minutes at 210. still motherfucking raw. back in at 220 for 5 more minutes fucking kill me. pretty goddam brown all throughout by now but the center still seems not completely done. extremely flat cookies. giving up, going to buy a fucking pizza stone. still raw on bottom but crispy on top fuck
+TODO (ONLY CHANGE ONE THING AT A TIME TO ISOLATE VARIABLES)
+    figure out temp/duration combo to cook completely
+        try 210 at 14-17 minutes until they're brown all the way through but on the bottom rack
+    switch to refrigerating dough for 24 hours instead of freezing 30 min
+    look through mama's recipe and try some stuff from there maybe
