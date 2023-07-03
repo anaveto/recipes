@@ -4,35 +4,47 @@ Ingredients
     1/4 tsp baking powder
     1/4 tsp salt
     1/4 cup sugar
-    1/4 cup coconut sugar
+    1/4 cup packed brown sugar
     1/3 cup chocolate chips
-    1/4 cup refrigerated milk
-    2 tbsp refrigerated butter
+    3 tbsp milk (oatly barista)
+    2 tbsp butter (stork original baking spread)
     1/4 tsp vanilla extract
 
 Instructions
-    Preheat oven to 180 degrees
-        210 on this piece of shit with baking stone on bottom rack and baking sheet on baking stone
-        NOT convection
-        MEASURE TEMPERATURE WITH THERMOMETER
+    Preheat oven to 165 degrees with pizza stone
+        185 on this piece of shit with baking stone on bottom rack and baking sheet on pizza stone
+        convection
 
-    Combine flour, baking soda, baking powder, salt, sugar, coconut sugar with whisk
-    Stir in chocolate chips
-    Add milk, butter, and vanilla extract
-    Stir until combined
+    Combine flour, baking soda, baking powder, salt with whisk
+    In separate bowl, combine sugar, brown sugar, milk, butter, and vanilla extract with whisk
+    Pour wet into dry and combine
+    Fold in chocolate chips
 
-    Put in freezer for 30 minutes
+    Put dough ball in freezer for 30 minutes
 
     Line one baking sheet and portion out eight small cookies
 
+    Make sure pizza stone is 165 degrees
+    Put baking sheet on pizza stone
     Bake until edges start to turn golden (14 min)
     Leave on baking sheet for 15 minutes
     Transfer to cooling rack and cool for at least 5 minutes
 
+TODO FOR NEXT ATTEMPT
+    try 185 convection for preheat and measure the pizza stone to make sure it's 165c
+    USE REAL BROWN SUGAR NOT DEMERARA
+    try only using 2 tbsp milk to see if that is actually enough
+    whisk wet ingredients separately
+    only add chocolate chips AFTER combining wet with dry
+    cook for 14 min at 185 or maybe even a bit longer
+    put tray one above stone not on it (stone on bottom, tray on bottom tray)
 LAST ATTEMPT
-    did 14 min at 200. only baking soda no powder. did not chill dough. took them out once they were very very lightly starting to brown. used extremely tiny balls of dough. result was still raw in the center after 14 minutes, so put them back in at 210 for 3 more minutes. they were properly brown on the edges by that point, though still white in the center on the top. STILL FUCKING RAW KILL ME. back in for another 5 minutes at 210. still motherfucking raw. back in at 220 for 5 more minutes fucking kill me. pretty goddam brown all throughout by now but the center still seems not completely done. extremely flat cookies. giving up, going to buy a fucking pizza stone. still raw on bottom but crispy on top fuck
+    only used 3 tbsp milk. added 1/4 tsp baking powder. used pizza stone on bottom rack. preheated to 200c convection. used freezer for 30 min with ball before portioning dough. didn't whisk wet ingredients separately which was a mistake. put chocolate chips in with dry which wwas a mistake. put baking sheet on pizza stone on bottom rack cooking with just the broiler since oven is top heating element only. used convection for preheating. switched to guittard semi-sweet chocolate chips. switched to using convection oven because non-convection just doesn't work with this thing. cooked on 185c convection but preheat was giga high like 210 or something so baking stone was over 180 degrees whoops whatever. did 14 min at 185. ended up a little overly browned i think to be honest idk. but at least the bottoms were cooked this time with the pizza stone. center still a bit undone.
+LAST-1 ATTEMPT
+    tried oatly barista and stork original baking spread instead of oil. did 14 min at 200. only baking soda no powder. did not chill dough. took them out once they were very very lightly starting to brown. used extremely tiny balls of dough. result was still raw in the center after 14 minutes, so put them back in at 210 for 3 more minutes. they were properly brown on the edges by that point, though still white in the center on the top. STILL FUCKING RAW KILL ME. back in for another 5 minutes at 210. still motherfucking raw. back in at 220 for 5 more minutes fucking kill me. pretty goddam brown all throughout by now but the center still seems not completely done. extremely flat cookies. giving up, going to buy a fucking pizza stone. still raw on bottom but crispy on top fuck
 TODO (ONLY CHANGE ONE THING AT A TIME TO ISOLATE VARIABLES)
     figure out temp/duration combo to cook completely
         try 210 at 14-17 minutes until they're brown all the way through but on the bottom rack
+    do wet ingredients separately
     switch to refrigerating dough for 24 hours instead of freezing 30 min
     look through mama's recipe and try some stuff from there maybe
