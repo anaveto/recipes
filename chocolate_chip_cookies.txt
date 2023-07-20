@@ -1,20 +1,18 @@
 Ingredients
-    1 tbsp ground flaxseed
-    3 tbsp milk (oatly barista)
-    1 cup flour
-    1/2 tsp baking soda
-    1/4 tsp baking powder
-    1/4 tsp salt
-    1/4 cup sugar
-    1/4 cup packed brown sugar
-    2 tbsp butter (stork original baking spread)
-    1/4 tsp vanilla extract
-    1/3 cup chocolate chips
+    1/4 cup milk (oatly barista)
+    2 cup flour
+    1 tsp baking soda
+    1/2 tsp baking powder
+    1/2 tsp salt
+    1/2 cup sugar
+    1/2 cup packed brown sugar
+    1/4 cup butter (stork original baking spread)
+    1/2 tsp vanilla extract
+    2/3 cup chocolate chips
 
 Instructions
-    Make flax egg by stirring together flaxseed and milk
     Combine flour, baking soda, baking powder, salt with whisk
-    In separate bowl, combine sugar, brown sugar, butter, flax egg, and vanilla extract with whisk
+    In separate bowl, combine sugar, brown sugar, butter, milk, and vanilla extract with whisk
     Pour wet into dry and combine
     Fold in chocolate chips
 
@@ -27,18 +25,25 @@ Instructions
         preheat for 1 hour
         baking sheet directly on pizza stone
 
-    Line one baking sheet and portion out eight small cookies
+    Line two baking sheets and portion out eight cookies each
     Flatten the cookies into 2cm tall cylinders
 
     Make sure pizza stone is 165 degrees
     Put baking sheet on bottom rack
-    Bake until edges start to turn golden (14 min)
-    Leave on baking sheet for 15 minutes
+    Bake for 12 minutes
+    Flip cookies over
+        1. put baking sheet on top of cookies
+        2. stack second baking tray on top of that baking sheet
+        3. flip over both sheets so that cookies end up on bottom of second baking sheet
+        4. slide cookies back into the original baking sheet
+    Bake bottom for 6 more minutes
+    Leave on baking sheet to cool for 15 minutes
     Transfer to cooling rack and cool for at least 5 minutes
 
 TODO
-    put baking sheet directly on pizza stone
-    flatten cookies before putting in oven for more even baking
+    go back to eight cookies per tray. change to actually flipping them over to bake the bottom too
+2023-07-20 ATTEMPT
+    double portion. preheat to 165 but temp ended up around 150 that way so moved up to 170. pizza stone on center rack. flatten cookies before putting in oven. six cookies per tray fan heating not grill. directly on pizza stone. did the first batch for 17 minutes at 170 (pizza stone temp 150). bottom is soft but top is hard, fuck. for second set, did 20 minutes, rotating tray after 10 minutes, with pizza stone on bottom rack. still didn't look done, so baked for another two minutes but all that really did is make them brown more. definitely need to lower temperature even more. end result: soft. doesn't even taste good (should get rid of flax egg i think). damn. i'm just going to try actually baking the bottom too fuck it. yeah this is the strat with this oven and i think in general too just flip them over halfway through duh. yeah. makes sense. ok sure. did another 10 minutes on the bottom of the cookies to actually make them done which seemed to work. taste is definitely bad though fuck flax egg shit. 
 2023-07-05 ATTEMPT
     tried adding a flax egg (1 tbsp ground flaxseed with 3 tbsp milk). tried preheating to 170 and baking there. ended up around 145 on the baking sheet or something like that at the end. 15 minutes at 170 convection. seemed like they were just barely starting to brown. i think it would be better to put directly on pizza stone maybe. they're good but super chewy which i'm not enamored by idk. just underdone, i''m putting them back in for a few minutes directly on top of the pizza stone and from now on i'm always putting everything on pizza stone. next time i'll do 170 like that directly on pizza stone
 2023-07-03 ATTEMPT
