@@ -1,20 +1,20 @@
 Ingredients (lecso total: 2,071 kcal, 1900g, 109 kcal per 100g)
-    1 kg diced onions
-        410 kcal
-    4 tsp garlic
-        20 kcal
-    2 kg peppers (hungarian, cubanelle, bell peppers)
-        480 kcal
-    1 kg tomatoes
-        170 kcal
-    1/4 cup extra virgin olive oil
-        484 kcal
-    3 tbsp paprika
-        57 kcal
-    2 cups cooked chickpeas
-        450 kcal
-    4 cups rice
-        3300 kcal
+    0.5 kg diced onions
+        205 kcal
+    2 tsp garlic
+        10 kcal
+    1 kg peppers (hungarian, cubanelle, bell peppers)
+        240 kcal
+    0.5 kg tomatoes
+        85 kcal
+    1/8 cup extra virgin olive oil
+        242 kcal
+    1.5 tbsp paprika
+        29 kcal
+    1 cups cooked chickpeas
+        225 kcal
+    2 cups rice
+        1650 kcal
 
 Instructions
     Dice onions
@@ -29,7 +29,7 @@ Instructions
     Stir in paprika, peppers, and tomatoes
     Bring to boil
     Cook uncovered (5 heat) (10 minutes)
-    Stir in 4 tsp salt and 20 turns pepper
+    Stir in 2 tsp salt and 10 turns pepper
     Cook covered (4 heat) (60 minutes)
     Cook uncovered until reduced (4 heat)
     Add chickpeas and combine
