@@ -4,7 +4,9 @@ Ingredients
     4 tsp chopped garlic
     0.5 kg legumes
     1.5 kg vegetables
-    3 tsp paprika
+    3 tsp paprika (4 if bread)
+    2 tsp salt (3 if bread)
+    1/8 tsp pepper (1/4 if bread)
 
 Instructions
     Rinse and drain legumes
@@ -15,6 +17,6 @@ Instructions
     Saute for 2 minutes (266 F, 130 C)
 
     Add legumes and vegetables
-    Add 5 cups water, 2 tsp salt, 1/8 tsp pepper, paprika
+    Add water until covered, salt, pepper, paprika
     Bring to boil covered (max heat)
     Reduce heat and cook covered (130c, 60 minutes)
