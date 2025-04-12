@@ -1,6 +1,6 @@
 Ingredients
     ~280g dry chickpeas (about 2 tatung cups)
-    1 tbsp baking soda
+    1 tsp baking soda
     4 lemons
     2 cloves garlic (TODO: recipe calls for 7 lmao. increase gradually)
     1 cup stirred tahini
@@ -10,6 +10,7 @@ Ingredients
 
 Instructions
     Soak chickpeas overnight covered in fridge with baking soda
+    Rinse chickpeas thoroughly then soak again overnight with no baking soda
 
     Rinse chickpeas and cook in rice cooker
         double the water compared to rice (for 2 tatung cups, fill inner to 4 line and add 1 tatung cup to outer)
