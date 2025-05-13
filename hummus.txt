@@ -1,7 +1,7 @@
 Ingredients
     ~280g dry chickpeas (about 2 tatung cups)
     6 lemons
-    5 cloves garlic (TODO: recipe calls for 7 lmao. increase gradually)
+    6 cloves garlic
     1 cup stirred tahini
     1/4 cup extra virgin olive oil
     0.5 tsp ground cumin
@@ -18,10 +18,10 @@ Instructions
     Stir until combined
         juice from lemon
         garlic
-        tahini
         olive oil
         cumin
         salt
+        tahini
         a bit of water
     Blend/process/whatever until desired consistency
         chickpeas
