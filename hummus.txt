@@ -1,16 +1,16 @@
 Ingredients
-    ~280g dry chickpeas (about 2 tatung cups)
-    6 lemons
-    6 cloves garlic
-    1 cup stirred tahini
-    1/4 cup extra virgin olive oil
-    0.5 tsp ground cumin
-    1.25 tsp salt
+    ~560g dry chickpeas (about 4 tatung cups)
+    12 lemons
+    12 cloves garlic
+    2 cups stirred tahini
+    1/2 cup extra virgin olive oil
+    1 tsp ground cumin
+    3 tsp salt
 
 Instructions
-    Soak chickpeas for two nights covered in fridge with 3 tsp salt
+    Soak chickpeas overnight
 
-    Rinse chickpeas thoroughly and cook in large pot for 1 hour
+    Rinse chickpeas thoroughly and cook in pressure cooker for 2 hours
 
     Juice lemons
     Mince/chop/whatever garlic
@@ -18,10 +18,10 @@ Instructions
     Stir until combined
         juice from lemon
         garlic
-        olive oil
         cumin
         salt
         tahini
+        olive oil
         a bit of water
     Blend/process/whatever until desired consistency
         chickpeas
